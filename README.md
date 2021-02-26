@@ -31,5 +31,9 @@ https://protected-taiga-89091.herokuapp.com/
 
 
 
-Clow cards and Sakura cards API made with a lot of love for the community 🌈
+# Clow cards and Sakura cards API made with a lot of love for the community 🌈
+
+Contributions are welcome 💕
+
+
 
