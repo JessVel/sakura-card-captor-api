@@ -2,10 +2,10 @@
   "name": "sakura-api",
   "version": "1.0.0",
   "description": "",
-  "main": "src/server.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon --watch src src/server.js"
+    "start": "node src/index.js",
+    "dev": "nodemon --watch src src/index.js"
   },
   "repository": {
     "type": "git",
