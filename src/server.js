@@ -18,6 +18,8 @@ app.use(express.json({ extended: true }));
 
 const PORT = process.env.PORT || 4000;
 
+app.use("/api/card", require("./routes/card_routes"));
+
 app.listen(PORT, () => {
   success({
     badge: true,
