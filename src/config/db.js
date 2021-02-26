@@ -1,5 +1,4 @@
 const mongoose = require("mongoose");
-const { success, error } = require("consola");
 require("dotenv").config();
 
 const connectDB = async () => {
@@ -10,16 +9,9 @@ const connectDB = async () => {
       useFindAndModify: false,
       useCreateIndex: true,
     });
-    success({
-      badge: true,
-      message: `Data Base Connected`,
-    });
+    console.log("Data base connected");
   } catch (err) {
-    error({
-      badge: true,
-      message: `Error: ${err.message}`,
-    });
-    console.log(err);
+    console.log(`Error: ${err.message}`);
     process.exit(1);
   }
 };

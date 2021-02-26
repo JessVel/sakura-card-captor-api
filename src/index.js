@@ -6,8 +6,6 @@ const cors = require("cors");
 
 require("dotenv").config();
 
-const { success } = require("consola");
-
 const app = express();
 
 connectDB();
@@ -36,8 +34,5 @@ app.use(function (req, res, next) {
 app.use("/api/card", require("./routes/card_routes"));
 
 app.listen(PORT, () => {
-  success({
-    badge: true,
-    message: `Server running in ${PORT}`,
-  });
+  console.log(`Server running in ${PORT}`);
 });
