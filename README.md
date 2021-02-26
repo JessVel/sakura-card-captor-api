@@ -15,7 +15,7 @@ https://protected-taiga-89091.herokuapp.com/
 
 * Example of object: 
 
-`
+```
 {
 "cardNumber": "1",
 "spanishName": "Viento",
@@ -29,7 +29,7 @@ https://protected-taiga-89091.herokuapp.com/
 }
 
 
-`
+
 
 Clow cards and Sakura cards API made with a lot of love for the community 🌈
 
