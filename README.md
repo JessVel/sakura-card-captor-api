@@ -1,7 +1,7 @@
 # API de Sakura CardCapture ✨
 
 
-![ScreenShot](https://raw.github.com/JessVel/sakura-card-capture-api/main/src/assets/sakura.jpg) 
+![ScreenShot](https://raw.github.com/JessVel/sakura-card-capture-api/main/assets/sakura.jpg) 
 
 
 
