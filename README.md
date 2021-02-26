@@ -27,7 +27,7 @@ https://protected-taiga-89091.herokuapp.com/
 "clowCard": "https://static.wikia.nocookie.net/sakuracardcaptors/images/6/6d/Viento.jpg/revision/latest/scale-to-width-down/210?cb=20181225230616&path-prefix=es",
 "sakuraCard":"https://static.wikia.nocookie.net/sakuracardcaptors/images/7/7e/Viento_Sakura.jpg/revision/latest/scale-to-width-down/210?cb=20201116174455&path-prefix=es"
 }
-
+```
 
 
 
