@@ -32,14 +32,14 @@ https://protected-taiga-89091.herokuapp.com/
 ### There are currently nine available resources:
 
 `cardNumber`: This is the card number, not the id. <br>
-spanishName: Card name in spanish language.<br>
-englishName: Card name in english language.<br>
-kanji: Logographic Japanese characters.<br>
-Rōmaji: Western alphabet transcription.<br>
-appeardManga: Number of manga in which the card first appeard.<br>
-appeardAnime : Number of episode in which the card first appeard.<br>
-clowCard: Image of the Clow Card.<br>
-sakuraCard: Image of the Sakura Card<br>
+`spanishName`: Card name in spanish language.<br>
+`englishName`: Card name in english language.<br>
+`kanji`: Logographic Japanese characters.<br>
+`Rōmaji`: Western alphabet transcription.<br>
+`appeardManga`: Number of manga in which the card first appeard.<br>
+`appeardAnime` : Number of episode in which the card first appeard.<br>
+`clowCard`: Image of the Clow Card.<br>
+`sakuraCard`: Image of the Sakura Card<br>
 
 
 
