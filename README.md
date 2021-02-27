@@ -1,4 +1,4 @@
-# Sakura CardCapture API ✨
+# Sakura CardCaptor API ✨
 
 
 ![ScreenShot](https://raw.github.com/JessVel/sakura-card-capture-api/main/assets/sakura.jpg) 
