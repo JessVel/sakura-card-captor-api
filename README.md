@@ -29,7 +29,7 @@ https://protected-taiga-89091.herokuapp.com/
 }
 ```
 
-# There are currently nine available resources:
+### There are currently nine available resources:
 
 cardNumber: This is the card number, not the id. <br>
 spanishName: Card name in spanish language.<br>
