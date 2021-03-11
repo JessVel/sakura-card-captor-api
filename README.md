@@ -47,11 +47,12 @@ https://protected-taiga-89091.herokuapp.com/
 `sakuraCard`: Image of the Sakura Card<br>
 
 
+### Start proyect 🚀
 
+`npm install`
+
+`npm run dev`
 
 # Clow cards and Sakura cards API made with a lot of love for the community 🌈
 
 Contributions are welcome 💕
-
-
-
