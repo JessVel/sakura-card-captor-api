@@ -34,3 +34,12 @@ exports.createCard = async (req, res) => {
     res.status(400).json({ msg: "Hubo un error" });
   }
 };
+
+exports.editCard = async (req, res) =>{
+  try{
+
+  }catch(error){
+    console.log(error);
+    res.status(400).json({ msg: "Hubo un error" });
+  }
+}
